@@ -2,3 +2,5 @@
 .venv
 .jlite
 .jupyterlite.doit.db
+__pycache__/
+*.pyc
